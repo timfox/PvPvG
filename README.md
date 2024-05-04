@@ -1,5 +1,5 @@
 # PvPvG (Player vs. Player vs. Ghost)
-An experimental idea where players can affect the game world or other players as ghosts after death. As ghosts, players might be able to set traps, influence environmental hazards, or provide buffs/debuffs.
+An experimental idea where players can affect the game world or other players as ghosts after death. As ghosts, players can set traps, influence environmental hazards, and provide buffs/debuffs.
 [![GitHub Actions Status](https://github.com/nillerusr/source-engine/actions/workflows/build.yml/badge.svg)](https://github.com/nillerusr/source-engine/actions/workflows/build.yml) [![GitHub Actions Status](https://github.com/nillerusr/source-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/nillerusr/source-engine/actions/workflows/tests.yml)
  
 
